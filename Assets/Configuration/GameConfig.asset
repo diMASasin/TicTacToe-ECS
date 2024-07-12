@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d96a8d04f794c0e9226d2cf7d580d8a, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: Assembly-CSharp:TicTacToe:Configuration
+  LevelWidth: 3
+  LevelHeight: 3
+  ChainLength: 3
+  CellView: {fileID: 1054316252679783274, guid: 3e43067094dfd4b489a984a0573b9214, type: 3}
+  Offset: {x: 0.1, y: 0.1}
+  CrossView: {fileID: -4219715065548890192, guid: 93689f894b7ebc54582d75610e99efa7, type: 3}
+  ZeroView: {fileID: -3633767623073477247, guid: a8b87546322dfbd4da5413ba69b111dc, type: 3}
